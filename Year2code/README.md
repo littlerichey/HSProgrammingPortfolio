@@ -14,5 +14,5 @@
 
 [Zipcode/barcode converter](https://littlerichey.github.io/HSProgrammingPortfolio/Year2code)
 
-[Sudoku](https://littlerichey.github.io/HSProgrammingPortfolio/Year2code)
+[Sudoku](https://littlerichey.github.io/Sudoku)
 
