@@ -1,4 +1,4 @@
-## This program int take an interger n and outputs the nth fibonacci number.
+## This program intakes an interger n and outputs the nth fibonacci number.
 
 ![alt text](https://littlerichey.github.io/HSProgrammingPortfolio/Year2code/images/Fib.png)
 
