@@ -1,6 +1,6 @@
 [Ultra compressed 99 Bottles](https://littlerichey.github.io/HSProgrammingPortfolio/Year2code/99Bottles)
 
-![alt text](https://littlerichey.github.io/HSProgrammingPortfolio/Year2code/images/99bottles.png)
+![alt text](https://littlerichey.github.io/HSProgrammingPortfolio/Year2code/images/99Bottles.png)
 
 [Fibonacci Number Generater](https://littlerichey.github.io/HSProgrammingPortfolio/Year2code/Fibonacci)
 
