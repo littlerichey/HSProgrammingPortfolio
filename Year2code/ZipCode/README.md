@@ -2,6 +2,6 @@
 
 ![alt text](https://littlerichey.github.io/HSProgrammingPortfolio/Year2code/images/ZipBar.png)
 
-[code](https://github.com/littlerichey/HSProgrammingPortfolio/new/master/Year2code/ZipCode)
+[code](https://github.com/littlerichey/HSProgrammingPortfolio/tree/master/Year2code/ZipCode)
 
 [back](https://littlerichey.github.io/HSProgrammingPortfolio/Year2code)
