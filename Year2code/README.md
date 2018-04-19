@@ -16,3 +16,7 @@
 
 [Sudoku](https://littlerichey.github.io/Sudoku)
 
+![alt text](https://littlerichey.github.io/Sudoku/SudokuSS.png)
+
+[back](https://littlerichey.github.io/HSProgrammingPortfolio)
+
