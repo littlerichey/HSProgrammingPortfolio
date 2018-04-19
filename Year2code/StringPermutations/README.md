@@ -1,4 +1,4 @@
-## This program Intakes a string a outputs all permutations of said string
+## This program Intakes a string and outputs all permutations of said string
 
 ![alt text](https://littlerichey.github.io/HSProgrammingPortfolio/Year2code/images/Sperms.png)
 
