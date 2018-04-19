@@ -1,4 +1,4 @@
-###This Program converts between postal zip codes and bar codes.
+##This Program converts between postal zip codes and bar codes.
 
 ![alt text](https://littlerichey.github.io/HSProgrammingPortfolio/Year2code/images/ZipBar.png)
 
