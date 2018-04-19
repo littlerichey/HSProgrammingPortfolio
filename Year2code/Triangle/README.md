@@ -1,4 +1,4 @@
-### This file gives information on a given triangle.
+## This file gives information on a given triangle.
 
 ![alt text](https://littlerichey.github.io/HSProgrammingPortfolio/Year2code/images/Triangle.png)
 
